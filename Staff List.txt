@@ -1,0 +1,16 @@
+ID, NAME, AGE, STAFF POSITION, SALARY 
+UK0001, David Brent, 54, Manager, 8000
+US0000, David Wallace, 12, CEO, 26000
+US0001, Michael Scott, 43, Regional Manager, 9986000
+US0002, Dwight Schrute, 33, Assistant To The Regional Manager, 17000
+US0003, Jim Halpert, 26, Salesman, 17000
+US0004, Pam Beesly, 24, Receptionist, 13000
+US0005, Toby Flenderson, 42, Human Resources Rep, -10000
+US0006, Kevin Malone, 43, Accountant, 15000
+US0007, Creed Bratton, 30, Quality Assurance Manager, 0
+US0008, Andy Bernard, 34, Salesman, 12000
+US0009, Angela Lipton, 23, Accountant, 13000
+US0010, Ryan Howard, 28, Temp, 900
+US0011, Oscar Martinez, 39, Accountant, 16000
+US0012, Darryl Philbin, 38, Quality Assurance, 90000
+US0013, Robert California, 100000, CEO, 9999

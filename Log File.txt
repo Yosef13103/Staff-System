@@ -1,0 +1,274 @@
+[20/04/2022 | 02:07:52PM] main - Staff List.txt Created
+
+
+============================================================================================================================
+
+[20/04/2022 | 02:07:56PM] itemAdd - Record Added Successfully - Record 1 Altered
+			--Current Number of Records: 1
+
+[20/04/2022 | 02:08:00PM] itemDisplay - Records Displayed Successfully
+
+[20/04/2022 | 02:08:04PM] itemAdd - Record Added Successfully - Record 2 Altered
+			--Current Number of Records: 2
+
+[20/04/2022 | 02:08:06PM] itemSave - Records Exported to "Staff List.txt" Successfully
+
+[20/04/2022 | 02:08:10PM] itemDel - Record Deleted Successfully - Record 1 Altered
+			--Current Number of Records: 1
+
+[20/04/2022 | 02:08:11PM] itemSave - Records Exported to "Staff List.txt" Successfully
+
+[20/04/2022 | 02:08:13PM] Statistical Report Generated
+
+[20/04/2022 | 02:08:14PM] Quiting Program
+
+
+============================================================================================================================
+
+[20/04/2022 | 02:46:52PM] Main - Records Imported From "Staff List.txt" Successfully. Maximum allowed records: 20
+
+[20/04/2022 | 02:46:54PM] itemDisplay - Records Displayed Successfully
+
+[20/04/2022 | 02:46:59PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:47:23PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:47:23PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:47:23PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:47:23PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:47:23PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:47:23PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:47:23PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:47:23PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:47:23PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:47:23PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:47:23PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:47:23PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:47:23PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:47:23PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:47:54PM] itemSort - Records Sorted Ascendingly by ID
+
+[20/04/2022 | 02:47:55PM] itemDisplay - Records Displayed Successfully
+
+[20/04/2022 | 02:48:21PM] itemSearch - Records Search Failed
+
+[20/04/2022 | 02:48:44PM] itemSearch - Records Search Failed
+
+[20/04/2022 | 02:49:12PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:49:51PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:49:51PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:49:51PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:49:51PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:49:51PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:49:51PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:49:51PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:49:51PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:49:51PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:49:51PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:49:51PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:49:51PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:49:51PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:49:51PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:50:24PM] itemSave - Records Exported to "Staff List.txt" Successfully
+
+[20/04/2022 | 02:50:27PM] Quiting Program
+
+
+============================================================================================================================
+
+[20/04/2022 | 02:53:04PM] Main - Records Imported From "Staff List.txt" Successfully. Maximum allowed records: 16
+
+[20/04/2022 | 02:53:06PM] itemDisplay - Records Displayed Successfully
+
+[20/04/2022 | 02:53:09PM] itemAdd - Record Added Successfully - Record 16 Altered
+			--Current Number of Records: 16
+
+[20/04/2022 | 02:53:10PM] itemAdd - Maximum Allowed Records Hit
+
+[20/04/2022 | 02:53:18PM] itemSearch - Records Searched Successful
+
+[20/04/2022 | 02:53:22PM] itemDel - Record Deleted Successfully - Record 16 Altered
+			--Current Number of Records: 15
+
+[20/04/2022 | 02:53:25PM] itemSave - Records Exported to "Staff List.txt" Successfully
+
+[20/04/2022 | 02:53:28PM] Quiting Program
+
+
+============================================================================================================================
+
+[21/04/2022 | 08:57:35PM] Main - Records Imported From "Staff List.txt" Successfully. Maximum allowed records: 20
+
+[21/04/2022 | 08:58:10PM] itemSave - Records Exported to "Staff List.txt" Successfully
+
+[21/04/2022 | 08:58:12PM] Quiting Program
+
+
+============================================================================================================================
+
+[21/04/2022 | 10:10:47PM] Main - Records Imported From "Staff List.txt" Successfully. Maximum allowed records: 20
+
+[21/04/2022 | 10:11:10PM] itemUpdate - Record Updated Successfully - Record 1 Altered
+			--Current Number of Records: 15
+
+[21/04/2022 | 10:11:14PM] itemDisplay - Records Displayed Successfully
+
+
+============================================================================================================================
+
+[21/04/2022 | 10:14:05PM] Main - Records Imported From "Staff List.txt" Successfully. Maximum allowed records: 20
+
+[21/04/2022 | 10:15:07PM] itemUpdate - Record Updated Successfully - Record 1 Altered
+			--Current Number of Records: 15
+
+
+============================================================================================================================
+
+[21/04/2022 | 10:15:18PM] Main - Records Imported From "Staff List.txt" Successfully. Maximum allowed records: 20
+
+[21/04/2022 | 10:15:23PM] itemAdd - Record Added Successfully - Record 16 Altered
+			--Current Number of Records: 16
+
+
+============================================================================================================================
+
+[21/04/2022 | 10:17:17PM] Main - Records Imported From "Staff List.txt" Successfully. Maximum allowed records: 20
+
+[21/04/2022 | 10:17:24PM] itemUpdate - Record Updated Successfully - Record 1 Altered
+			--Current Number of Records: 15
+
+
+============================================================================================================================
+
+[21/04/2022 | 10:18:23PM] Main - Records Imported From "Staff List.txt" Successfully. Maximum allowed records: 20
+
+[21/04/2022 | 10:18:34PM] itemUpdate - Record Updated Successfully - Record 1 Altered
+			--Current Number of Records: 15
+
+
+============================================================================================================================
+
+[21/04/2022 | 11:36:31PM] Main - Records Imported From "Staff List.txt" Successfully. Maximum allowed records: 20
+
+[21/04/2022 | 11:36:34PM] itemAdd - Record Added Successfully - Record 16 Altered
+			--Current Number of Records: 16
+
+[21/04/2022 | 11:36:38PM] itemDisplay - Records Displayed Successfully
+
+[21/04/2022 | 11:36:42PM] itemDel - Record Deleted Successfully - Record 16 Altered
+			--Current Number of Records: 15
+
+[21/04/2022 | 11:36:45PM] itemDisplay - Records Displayed Successfully
+
+[21/04/2022 | 11:36:47PM] itemSave - Records Exported to "Staff List.txt" Successfully
+
+[21/04/2022 | 11:36:48PM] Quiting Program
+
+
+============================================================================================================================
+
+[21/04/2022 | 11:40:53PM] Main - Records Imported From "Staff List.txt" Successfully. Maximum allowed records: 20
+
+
+============================================================================================================================
+
+[22/04/2022 | 05:26:17AM] Main - Records Imported From "Staff List.txt" Successfully. Maximum allowed records: 16
+
+[22/04/2022 | 05:26:23AM] itemDel - Record Deleted Successfully - Record 6 Altered
+			--Current Number of Records: 14
+
+[22/04/2022 | 05:26:44AM] Quiting Program
+
+
+============================================================================================================================
+
+[22/04/2022 | 05:26:52AM] Main - Records Imported From "Staff List.txt" Successfully. Maximum allowed records: 16
+
+[22/04/2022 | 05:27:59AM] itemDisplay - Records Displayed Successfully
+
+[22/04/2022 | 05:28:24AM] Quiting Program
+
+
+============================================================================================================================
+
+[07/06/2022 | 04:07:26PM] Main - 15 Records Imported From "Staff List.txt" Successfully
+			--Maximum allowed records: 100
+
+[07/06/2022 | 04:07:31PM] itemDisplay - Records Displayed Successfully
+
+[07/06/2022 | 04:07:37PM] itemAdd - Record Added Successfully - Record 16 Altered
+			--Current Number of Records: 16
+
+[07/06/2022 | 04:07:40PM] itemSave - 16 Records Exported to "Staff List.txt" Successfully
+
+[07/06/2022 | 04:07:42PM] itemDisplay - Records Displayed Successfully
+
+[07/06/2022 | 04:07:55PM] itemDel - Record Deleted Successfully - Record 16 Altered
+			--Current Number of Records: 15
+
+[07/06/2022 | 04:07:58PM] itemSave - 15 Records Exported to "Staff List.txt" Successfully
+
+[07/06/2022 | 04:08:03PM] Statistical Report Generated
+
+[07/06/2022 | 04:08:03PM] Quiting Program
+
+
+============================================================================================================================
+
+[08/06/2022 | 01:27:52AM] Main - 15 Records Imported From "Staff List.txt" Successfully
+			--Maximum allowed records: 20
+
+[08/06/2022 | 01:27:54AM] itemDisplay - Records Displayed Successfully
+
+[08/06/2022 | 01:28:00AM] itemSort - Records Sorted Descendingly by ID
+
+[08/06/2022 | 01:28:01AM] itemDisplay - Records Displayed Successfully
+
+[08/06/2022 | 01:28:09AM] itemSearch - Records Searched Successful
+
+[08/06/2022 | 01:28:14AM] itemSave - 15 Records Exported to "Staff List.txt" Successfully
+
+[08/06/2022 | 01:28:19AM] Statistical Report Generated
+
+[08/06/2022 | 01:28:19AM] Quiting Program
+
+
+============================================================================================================================
+
+[08/06/2022 | 01:29:38AM] Main - 15 Records Imported From "Staff List.txt" Successfully
+			--Maximum allowed records: 30
+
+[08/06/2022 | 01:29:52AM] itemSort - Records Sorted Ascendingly by ID
+
+[08/06/2022 | 01:29:54AM] itemSave - 15 Records Exported to "Staff List.txt" Successfully
+
+[08/06/2022 | 01:29:56AM] Quiting Program
+
