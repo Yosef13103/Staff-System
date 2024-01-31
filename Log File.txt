@@ -272,3 +272,19 @@
 
 [08/06/2022 | 01:29:56AM] Quiting Program
 
+
+============================================================================================================================
+
+[31/01/2024 | 02:24:57PM] Main - 15 Records Imported From "Staff List.txt" Successfully
+			--Maximum allowed records: 17
+
+[31/01/2024 | 02:25:06PM] itemSort - Records Sorted Ascendingly by ID
+
+[31/01/2024 | 02:25:10PM] itemDisplay - Records Displayed Successfully
+
+
+============================================================================================================================
+
+[31/01/2024 | 02:25:55PM] Main - 15 Records Imported From "Staff List.txt" Successfully
+			--Maximum allowed records: 20
+
