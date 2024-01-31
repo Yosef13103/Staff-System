@@ -1,2 +1,2 @@
 *.pdf
-Log\ File.txt
+/Log\ File.txt
